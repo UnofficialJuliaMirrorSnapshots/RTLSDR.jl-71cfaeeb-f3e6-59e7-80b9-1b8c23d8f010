@@ -1,0 +1,9 @@
+name = "RTLSDR"
+uuid = "71cfaeeb-f3e6-59e7-80b9-1b8c23d8f010"
+keywords = ["librtlsdr", "software-defined-radio"]
+license = "MIT"
+desc = "Julia wrapper for C librtlsdr library"
+version = "0.0.1"
+
+[compat]
+julia = "1"
